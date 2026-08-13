@@ -3,7 +3,6 @@
 **Scientist - Quantitative Genetics**  
 [Email me 📧](yu.wang@lic.co.nz) | 🔗 [ORCiD](https://orcid.org/0000-0003-3756-6246) | 📍 Hamilton, Waikato, NZ
 
----
 
 ## 🔬 Professional Summary
 
@@ -17,7 +16,6 @@ Quantitative geneticist with 10+ years of experience in dairy cattle breeding ac
 
 **Postdoctoral Researcher**  
 *AL Rae Centre, Massey University (10/2018 - 09/2020)*
-
 
 ## 🎓 Education
 
@@ -35,8 +33,7 @@ Quantitative geneticist with 10+ years of experience in dairy cattle breeding ac
 * Master Thesis: Mothers are fair: No remarkable change in milk yield and composition depending on the sex of offspring in Dutch Holstein-Friesian cows (Grade: 8.0/10.0)
 
 *University of Natural Resources and Life Sciences (BOKU)- Vienna, Austria*
-* •	Master Thesis: Genetic and geographic diversity of Gyr (bos indicus) cattle in Brazil (Grade: 1.0/1.0)
-
+* Master Thesis: Genetic and geographic diversity of Gyr (bos indicus) cattle in Brazil (Grade: 1.0/1.0)
 
 ## 📝 Publications
 
@@ -53,7 +50,6 @@ Edwardo G.M. Reynolds, Thomas Lopdell, **Yu Wang**, Kathryn M. Tiplady, Chad S. 
 **Yu Wang**, Dierck Segelke, Reiner Emmerling, Jörn Bennewitz, Robin Wellmann (2017) *Long-term impact of optimum contribution selection strategies on local livestock breeds with historical introgression using the example of German Angler cattle.* G3: Genes, Genomes, Genetics, 7(12), pp.4009-4018.
 
 **Yu Wang**, Jörn Bennewitz, Robin Wellmann (2017) *Novel optimum contribution selection methods accounting for conflicting objectives in breeding programs for livestock breeds with historical migration.* Genetics, Selection, Evolution, 49
-
 
 ## 🌐 Conference proceedings
 
@@ -79,4 +75,3 @@ Robin Wellmann, **Yu Wang**, Jörn Bennewitz: *Removal of haplotype segments ori
 
 Marleen Visker, **Yu Wang**, Mathijs van Pelt, Henk Bovenhuis: *Milk production of the mother is associated with the birth weight rather than the sex of the calf.* Book of Abstracts of the 66th Annual Meeting of the European Federation of Animal Science, Warsaw, Poland; 08/2015
 
----
